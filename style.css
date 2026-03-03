@@ -52,7 +52,7 @@ body {
     gap: 260px;
     background-color: #1F2937;
     color: azure;
-    /*background: linear-gradient( to right,  rgba(31, 41, 55, 1) 50%, rgba(255, 132, 0, 1));*/
+    background: linear-gradient( to right,  rgba(31, 41, 55, 1) 60%, rgba(255, 132, 0, 1));
 }
 
 .left-side {
@@ -176,6 +176,7 @@ button {
     border: 3px solid rgb(31, 41, 55);
     border-radius: 8px;
 }
+
 
 .footer {
     display: flex;
